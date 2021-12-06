@@ -1,1 +1,1 @@
-# kubectl-sock5-proxy
+# kubectl-forward
